@@ -1,0 +1,1 @@
+{\n  "name": "horror-game",\n  "version": "1.0.0",\n  "private": true,\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  },\n  "dependencies": {\n    "three": "^0.140.0"\n  },\n  "devDependencies": {\n    "vite": "^3.0.0",\n    "typescript": "^5.0.0",\n    "@capacitor/core": "^4.0.0",\n    "@capacitor/cli": "^4.0.0"\n  }\n}
